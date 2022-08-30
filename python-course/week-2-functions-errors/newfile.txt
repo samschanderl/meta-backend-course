@@ -1,0 +1,6 @@
+This is a new file created
+This is a second line
+And a third line - horray
+This line is appended!
+And this one, too!
+No Exception raised
