@@ -8,6 +8,7 @@ with open('sample.txt', "r") as file:
 
 # reading multiple lines as a list
 with open('sample.txt', "r") as file:
+        # I can save the list data and loop over it
         data = file.readlines()
         for x in data:
             print(x)
