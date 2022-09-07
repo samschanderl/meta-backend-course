@@ -10,6 +10,3 @@ def nodigit(person):
         return True
     else:
         return False
-
-from math import pi
-print(math.pi)
